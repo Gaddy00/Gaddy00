@@ -1,6 +1,3 @@
-Hello , my name is 00.Gaddy ...
-i am from Germany
-i am loking forward to learn Go , Vue.js and React.js 
-i am currently learning Python
-my goal for this year is to learn Python 
-my favorite IDE // Editior is Spyder
+# 00.Gaddy
+![image](https://user-images.githubusercontent.com/103292197/174426949-687f0f72-7f7f-4aa3-86c2-cad82d613913.png)
+---
