@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at https://gaddy00.github.io
 
-- 📝 I regularly write articles on https://gaddy00.github.io
+- 📝 I regularly write articles on https://gaddystechblog.blogspot.com
 
 - 📫 How to reach me **junes.zayed@proton.me**
 
