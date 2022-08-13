@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaddy00" alt="gaddy00" /></a> </p>
 
-- 🔭 I’m currently working on **AIP ~ All in Python**
+- 🔭 I’m currently working on **Fastcord.py**
 
 - 🌱 I’m currently learning **Python , Html and CSS**
 
