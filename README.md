@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Python , Html and CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gaddy00?tab=repositories](https://github.com/Gaddy00?tab=repositories)
+- 👨‍💻 All of my projects are available at https://gaddy00.github.io
 
-- 📝 I regularly write articles on [https://github.com/Gaddy00/AIP-All-in-Python/wiki](https://github.com/Gaddy00/AIP-All-in-Python/wiki)
+- 📝 I regularly write articles on https://gaddy00.github.io
 
 - 📫 How to reach me **junes.zayed@proton.me**
 
