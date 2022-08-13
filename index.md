@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Gaddy00
+---
+# My Projects
+```
+Fastcord.py
+Fastcord.rb
 
-You can use the [editor on GitHub](https://github.com/Gaddy00/Gaddy00/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Fastcord Homepage in html/css
+```
+---
+# My Languages and Tools
+```
+Python - currently learning...
+Html5 - currently learning...
+CSS3 - currently learning...
+Docker - currently learning...
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# In the future i wanna learn...
+```
+--- For fun ---
+Ruby 
+.NET
+Electron.js
 
-### Jekyll Themes
+--- Web development ---
+Javascript
+Typescript
+React.js
+Next.js
+Node.js
+Bootstrap-CSS
+Tailwind-CSS
+Golang
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gaddy00/Gaddy00/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+--- ESP32 ---
+C++
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--- Database ---
+Mongo DB
+My SQL
+Postgres
+
+--- System Automation ---
+Powershell
+Linux Shell
+```
