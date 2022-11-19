@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaddy00" alt="gaddy00" /></a> </p>
 
-- 🔭 I’m currently working on **Fastcord.py**
+- 🔭 I’m currently working on **Serveral small Docker projects that are oriented torwards collabaration and development in small groups.**
 
-- 🌱 I’m currently learning **Python , Html and CSS**
+- 🌱 I’m currently learning **Python , Html, CSS and Docker**
 
 - 👨‍💻 All of my projects are available at https://gaddy00.github.io
 
