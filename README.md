@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaddy00" alt="gaddy00" /></a> </p>
 
-- 🔭 I’m currently working on **Serveral small Docker projects that are oriented torwards collabaration and development in small groups.**
+- 🔭 I’m currently working on **a Python tkinter application.**
 
-- 🌱 I’m currently learning **Python , Html, CSS and Docker**
+- 🌱 I’m currently learning **Python, Tkinter, Html&Css and JS.**
 
-- 👨‍💻 All of my projects are available at "Website in creation"
+- 👨‍💻 All of my projects are available at "*--Comming Soon--*"
 
-- 📝 I regularly write articles on https://gaddystechblog.blogspot.com
+- 📝 Sometimes I write about my progress at https://gaddystechblog.blogspot.com
 
 - 📫 How to reach me **junes.zayed@proton.me**
 
