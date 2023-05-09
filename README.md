@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaddy00</h1>
-<h3 align="center">A Python developer from Germany that likes tecno-music.</h3>
+<h3 align="center">Python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaddy00&label=Profile%20views&color=0e75b6&style=flat" alt="gaddy00" /> </p>
 
@@ -11,15 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [--comming soon--](--comming soon--)
 
-- 📝 I regularly write articles on [iluvprogramming.hashnode.dev](iluvprogramming.hashnode.dev)
+- 📝 I regularly write articles on [DEV.to](https://dev.to/gaddy00)
 
 - 📫 How to reach me **junes.zayed@proton.me**
 
 - 📄 Know about my experiences [--comming soon--](--comming soon--)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
